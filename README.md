@@ -1,6 +1,32 @@
 # Gnod - Web Scraping Project
 ***
-by Prebitha Abraham & Anja Fechner
+*by Prebitha Abraham & Anja Fechner*
+*Mai 2021*
+
+![creditcards](https://github.com/AnjaFechner/bellatrix-lestrange/blob/main/pictures/creditcards.jpg)
+
+## Content
+***
+
+- [Introduction](#introduction)
+- [The Data](#the-data)
+- [Visualisation](#visualisation)
+- [Statistical Analysis](#statistical-analysis)
+- [Review](#review)
+- [My SQL](#my-sql)
+- [OnePager](#onepager)
+- [Presentation](#presentation)
+
+## Introduction
+***
+
+A highstreet bank has called in a wizard team of data analysts to help them analyse their credit marketing campaign. 
+They want to understand which types of customers respond positively to the campaign and what kind of marketing is most successful.
+We received the data set of 18000 records from the previous campaign. This included information about account details over a year, 
+demographic and customer segments as well as information about what type of campaign each customer received.
+
+
+## The Data 
 
 
 ## Day 1
